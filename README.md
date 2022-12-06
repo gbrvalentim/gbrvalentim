@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/gbrvalentim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gbrvalentim&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrvalentim&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrvalentim&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
 
 <h2 align="left" dir="auto">Welcome to my brain! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30px"> <br><br>About me:</h2>
