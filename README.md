@@ -4,7 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrvalentim&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<h2 align="left" dir="auto">Welcome to my brain! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30px"> <br><br>About me:</h2>
+<h2 align="left" dir="auto">Welcome to my brain! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30px"> <br><br>About me:</h2> 
 
 <ul dir="auto">
   <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I'm a full-time tech enthusiast and developer by week.</li>
